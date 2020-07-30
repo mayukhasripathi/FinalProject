@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C17560524D323B5003A65D1 /* JobOpportunities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C17560424D323B4003A65D1 /* JobOpportunities.swift */; };
+		6C17560724D32450003A65D1 /* Internships.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C17560624D32450003A65D1 /* Internships.swift */; };
+		6C17560924D32496003A65D1 /* Volunteer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C17560824D32496003A65D1 /* Volunteer.swift */; };
+		6C17560B24D324E8003A65D1 /* ResearchPrograms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C17560A24D324E8003A65D1 /* ResearchPrograms.swift */; };
 		CC16BF2F24D09E3100481E4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC16BF2E24D09E3100481E4B /* AppDelegate.swift */; };
 		CC16BF3124D09E3100481E4B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC16BF3024D09E3100481E4B /* SceneDelegate.swift */; };
 		CC16BF3324D09E3100481E4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC16BF3224D09E3100481E4B /* ViewController.swift */; };
@@ -36,6 +40,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C17560424D323B4003A65D1 /* JobOpportunities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobOpportunities.swift; sourceTree = "<group>"; };
+		6C17560624D32450003A65D1 /* Internships.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internships.swift; sourceTree = "<group>"; };
+		6C17560824D32496003A65D1 /* Volunteer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volunteer.swift; sourceTree = "<group>"; };
+		6C17560A24D324E8003A65D1 /* ResearchPrograms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResearchPrograms.swift; sourceTree = "<group>"; };
 		CC16BF2B24D09E3100481E4B /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC16BF2E24D09E3100481E4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CC16BF3024D09E3100481E4B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +113,10 @@
 				CC16BF3024D09E3100481E4B /* SceneDelegate.swift */,
 				CC16BF3224D09E3100481E4B /* ViewController.swift */,
 				CC16BF3424D09E3100481E4B /* Main.storyboard */,
+				6C17560A24D324E8003A65D1 /* ResearchPrograms.swift */,
+				6C17560824D32496003A65D1 /* Volunteer.swift */,
+				6C17560624D32450003A65D1 /* Internships.swift */,
+				6C17560424D323B4003A65D1 /* JobOpportunities.swift */,
 				CC16BF3A24D09E3300481E4B /* Assets.xcassets */,
 				CC16BF3C24D09E3300481E4B /* LaunchScreen.storyboard */,
 				CC16BF3F24D09E3300481E4B /* Info.plist */,
@@ -263,7 +275,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC16BF3324D09E3100481E4B /* ViewController.swift in Sources */,
+				6C17560B24D324E8003A65D1 /* ResearchPrograms.swift in Sources */,
+				6C17560924D32496003A65D1 /* Volunteer.swift in Sources */,
 				CC16BF2F24D09E3100481E4B /* AppDelegate.swift in Sources */,
+				6C17560524D323B5003A65D1 /* JobOpportunities.swift in Sources */,
+				6C17560724D32450003A65D1 /* Internships.swift in Sources */,
 				CC16BF3924D09E3100481E4B /* FinalProject.xcdatamodeld in Sources */,
 				CC16BF3124D09E3100481E4B /* SceneDelegate.swift in Sources */,
 			);
